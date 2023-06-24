@@ -1,0 +1,394 @@
+[
+	{
+		"question": "Ali rad ješ?",
+		"answer": [21, 28]
+	},
+	{
+		"question": "Ali si ženskega spola?",
+		"answer": [18, 42]
+	},
+	{
+		"question": "Ali imaš rad naravo?",
+		"answer": [31, 77]
+	},
+	{
+		"question": "Si Gandalf Sivi."
+	},
+	{
+		"question": "Ali bi rad imel vpliv na dogajanje?",
+		"answer": [94, 64]
+	},
+	{
+		"question": "Si Arwen Undomiel."
+	},
+	{
+		"question": "Ali se ti zdi Postonjska jama velika znamenitost?",
+		"answer": [58, 72]
+	},
+	{
+		"question": "Si Legolas."
+	},
+	{
+		"question": "Ali imaš na skoraj vsako vprašanje moder odgovor?",
+		"answer": [43, 38]
+	},
+	{
+		"question": "Ti si hobit",
+		"answer": [29]
+	},
+	{
+		"question": "Ali si brezmejno radoveden?",
+		"answer": [65, 9]
+	},
+	{
+		"question": "Ali si že izkušen animator?",
+		"answer": [26, 91]
+	},
+	{
+		"question": "Si ork iz Mordorja."
+	},
+	{
+		"question": "Ali rad poješ?",
+		"answer": [39, 9]
+	},
+	{
+		"question": "Si Elrond, polvilin."
+	},
+	{
+		"question": "Si Frodo Bisagin (ko ga Prstan podvrže svoji volji)."
+	},
+	{
+		"question": "Ali ti je všeč zlat nakit?",
+		"answer": [36, 5]
+	},
+	{
+		"question": "Si Rozi Cotton."
+	},
+	{
+		"question": "Ali imaš rad romantiko?",
+		"answer": [6, 103]
+	},
+	{
+		"question": "Si Bilbo Bisagin"
+	},
+	{
+		"question": "Ali rad hodiš bos?",
+		"answer": [25, 28]
+	},
+	{
+		"question": "Ali si zapečkar (ali si raje doma, kot da bi šel ven)?",
+		"answer": [67, 49]
+	},
+	{
+		"question": "Kaj imaš raje?",
+		"answer": ["Velike, glasne zabave", 60, "Zasebno druženje", 3]
+	},
+	{
+		"question": "Ali imaš rad ognjemet?",
+		"answer": [4, 62]
+	},
+	{
+		"question": "Ali imaš rad domač okoliš?",
+		"answer": [23, 78]
+	},
+	{
+		"question": "Kaj je najpomembnejša lastnost voditelja oratorija?",
+		"answer": ["Da je organiziran", 91, "Da povezuje skupino", 34]
+	},
+	{
+		"question": "Ali živiš v prestolnici?",
+		"answer": [13, 48]
+	},
+	{
+		"question": "Ali ješ več kot 4 obroke dnevno?",
+		"answer": [25, 7]
+	},
+	{
+		"question": "Ali se rad družiš s prijatelji?",
+		"answer": [22, 88]
+	},
+	{
+		"question": "Ti si vilin.",
+		"answer": [12]
+	},
+	{
+		"question": "Poišči drevo in določi katere vrste je.",
+		"answer": ["Uspešno sem določil vrsto", 45, "Nisem uspel določiti vrste", 77]
+	},
+	{
+		"question": "Kaj imaš raje?",
+		"answer": ["Velike, glasne zabave s pijačo", 73, "Zasebno, mirno druženje", 5]
+	},
+	{
+		"question": "Ali dobro prenašaš velike spremembe?",
+		"answer": [53, 3]
+	},
+	{
+		"question": "Ali bi raje imel prstan z diamantom ali safirjem?",
+		"answer": ["Z diamantom", 102, "S safirjem", 15]
+	},
+	{
+		"question": "Ali imaš rad morje?",
+		"answer": [65, 77]
+	},
+	{
+		"question": "Ali si že bil v jami, oz. bi jo rad obiskal?",
+		"answer": [70, 5]
+	},
+	{
+		"question": "Si Dwalin."
+	},
+	{
+		"question": "Ali si že drugič na tem vprašanju?",
+		"answer": [90, 1]
+	},
+	{
+		"question": "Ali si rad urejen/a?",
+		"answer": [11, 9]
+	},
+	{
+		"question": "Si Thorin Hrastovščit."
+	},
+	{
+		"question": "Ali bi rad imel veliko denarja?",
+		"answer": [50, 3]
+	},
+	{
+		"question": "Ali si moškega spola?",
+		"answer": [55, 2]
+	},
+	{
+		"question": "Ali si na svet poslan s posebnim namenom (poslanstvom)?",
+		"answer": [74, 38]
+	},
+	{
+		"question": "Ali si se - vsaj kdaj - sposoben upreti skušnjavi?",
+		"answer": [20, 16]
+	},
+	{
+		"question": "Ali si natančen?",
+		"answer": [35, 77]
+	},
+	{
+		"question": "Si Uruk-hai iz Isengarda."
+	},
+	{
+		"question": "Kaj bi izbral?",
+		"answer": ["Nesmrtnost (razen če si želiš umreti ali si umorjen)", 30, "Smrtnost", 88]
+	},
+	{
+		"question": "Si ork iz Gundabada."
+	},
+	{
+		"question": "Ali imaš rad vragolije?",
+		"answer": [87, 97]
+	},
+	{
+		"question": "Ti si človek.",
+		"answer": [63]
+	},
+	{
+		"question": "Ali rad nosiš pokrivala?",
+		"answer": [99, 38]
+	},
+	{
+		"question": "Si Peregrin Tuk."
+	},
+	{
+		"question": "Ali si že bil kdaj zaljubljen/a?",
+		"answer": [89, 66]
+	},
+	{
+		"question": "Si Gimli."
+	},
+	{
+		"question": "Si Samoglav Gamgi."
+	},
+	{
+		"question": "Poišči škrata (nekoga, ki ga je ključ določil za škrata) in ga vprašaj: »Ali sem tvoj prijatelj?«",
+		"answer": [8, 19]
+	},
+	{
+		"question": "Si Bard, lokostrelec."
+	},
+	{
+		"question": "Ali si neustrašen?",
+		"answer": [73, 32]
+	},
+	{
+		"question": "Ali lahko tečeš 3 dni skupaj?",
+		"answer": [46, 27]
+	},
+	{
+		"question": "Ali se rad bojuješ?",
+		"answer": [7, 10]
+	},
+	{
+		"question": "Ali lahko čitljivo pišeš z obema rokama?",
+		"answer": [30, 9]
+	},
+	{
+		"question": "Si Radagast."
+	},
+	{
+		"question": "Pojdi do vilina ali in ga vprašaj: »Kako je ime mojemu očetu?«",
+		"answer": ["Pravilno odgovori", 85, "Odgovori narobe", 71]
+	},
+	{
+		"question": "Ali si prilagodljiv?",
+		"answer": [94, 33]
+	},
+	{
+		"question": ". Ali bi rad obdržal stvari take, kot so?",
+		"answer": [69, 86]
+	},
+	{
+		"question": "Ali pogosto delaš napake?",
+		"answer": [89, 3]
+	},
+	{
+		"question": "Ali bi bil po poklicu raje vrtnar ali natakar?",
+		"answer": ["Vrtnar", 42, "Natakar", 2]
+	},
+	{
+		"question": "Si Merijadok."
+	},
+	{
+		"question": "Ali je nenehen razvoj tehnologije v dobro družbe?",
+		"answer": [86, 47]
+	},
+	{
+		"question": "Ti si škrat.",
+		"answer": [105]
+	},
+	{
+		"question": "Ali bi lažje ubil Nazgûla ali zmaja?",
+		"answer": ["Nazgûla", 84, "Zmaja", 57]
+	},
+	{
+		"question": "Ali si majhne postave?",
+		"answer": [82, 5]
+	},
+	{
+		"question": "Ali ti veliko pomeni skupnost?",
+		"answer": [82, 72]
+	},
+	{
+		"question": "Ali rad manipuliraš?",
+		"answer": [51, 38]
+	},
+	{
+		"question": "Poišči človeka (nekoga, ki ga je ključ določil za človeka) in ga vprašaj »Ali bi mi sledil v Mordor?«",
+		"answer": [101, 67]
+	},
+	{
+		"question": "Ali si pripravljen slediti vodji brez obotavljanja?",
+		"answer": [50, 41]
+	},
+	{
+		"question": "Ali imaš rad svetlobo?",
+		"answer": [14, 9]
+	},
+	{
+		"question": "Ali imaš rad pustolovščine?",
+		"answer": [60, 7]
+	},
+	{
+		"question": "Ali za boj raje uporabljaš lok ali sekiro?",
+		"answer": [92, 37]
+	},
+	{
+		"question": "Ti si Saruman"
+	},
+	{
+		"question": "Si Boromir."
+	},
+	{
+		"question": "Poišči kamen in določi katera kamnina ga sestavlja.",
+		"answer": ["Uspešno sem določil kamnino", 36, "Kamnine ne znam določiti", 17]
+	},
+	{
+		"question": "Poišči vilina (nekoga, ki ga je ključ določil za vilina) in ga vprašaj: »Ali sem tvoj prijatelj?«",
+		"answer": [54, 40]
+	},
+	{
+		"question": "Si Eowyn, bela gospa Rohana."
+	},
+	{
+		"question": "Kaj bi odnesel s sabo v boj z orki?",
+		"answer": ["Meč, verižico in nož", 100, "Meč, ščit in rog", 81]
+	},
+	{
+		"question": "Ali dobro vidiš in slišiš?",
+		"answer": [61, 9]
+	},
+	{
+		"question": "Zmnoži 37 x 16 na pamet.",
+		"answer": ["Ne, ne bom", 52, "Ok, rezultat je 592", 68]
+	},
+	{
+		"question": "Ali si ljubitelj mesa?",
+		"answer": [59, 95]
+	},
+	{
+		"question": "Kaj se bo s tabo zgodilo po smrti?",
+		"answer": ["Šel bom v Nebesa", 76, "Reinkarniral se bom", 3]
+	},
+	{
+		"question": "Ti si čarodej.",
+		"answer": [98]
+	},
+	{
+		"question": "Ali bi rad svet zavil v trdo temo?",
+		"answer": [56, 88]
+	},
+	{
+		"question": "Si Kili."
+	},
+	{
+		"question": "Ali bi sprejel podkupnino?",
+		"answer": [80, 104]
+	},
+	{
+		"question": "Ali bi raje imel kralja ali predsednika?",
+		"answer": ["Kralja", 53, "Predsednika", 33]
+	},
+	{
+		"question": "Si Nazgûl."
+	},
+	{
+		"question": " Si Gandalf Beli."
+	},
+	{
+		"question": "Ali imaš najboljšega prijatelja/ico?",
+		"answer": [75, 44]
+	},
+	{
+		"question": "Ali si vodja kakšne skupine/odbora/koncila/reprezentance?",
+		"answer": [93, 24]
+	},
+	{
+		"question": "Ali si nesmrten?",
+		"answer": [90, 38]
+	},
+	{
+		"question": "Si Aragorn II, Ellesar."
+	},
+	{
+		"question": "Si Frodo Bisagin."
+	},
+	{
+		"question": "Si Galadriel, gospa Lothloriena."
+	},
+	{
+		"question": "Si Glorfindel."
+	},
+	{
+		"question": "Vse, kar se moramo odločiti, je, kaj bomo s časom, ki nam je na voljo.",
+		"answer": [96, 80]
+	},
+	{
+		"question": "Poišči hobita (nekoga, ki ga je ključ določil za hobita) in ga vprašaj: »Ali sem rojen vodja?«",
+		"answer": [83, 79]
+	}
+]
